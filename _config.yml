@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: AWS ML Zero to Hero
+title: AWS ML Hub
 # description: This will be meta HTML tag content. This can be ignored.
 description: One stop place for all AWS ML stuff
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/awsml"
+baseurl: "/awsmlhero"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: AWS ML Zero to HERO!
+username: AWS Machine Learning Hub
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: by Vivek Raja P S
